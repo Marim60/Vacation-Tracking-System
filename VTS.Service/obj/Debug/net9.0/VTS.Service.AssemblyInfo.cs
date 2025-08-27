@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VTS.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88d0a902adc370fbb6a0c357b41f31f7d9884e81")]
 [assembly: System.Reflection.AssemblyProductAttribute("VTS.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VTS.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
