@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VTS.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b10e99eec279ac597f861519bdbd250daf0da791")]
 [assembly: System.Reflection.AssemblyProductAttribute("VTS.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VTS.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
